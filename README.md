@@ -1,4 +1,4 @@
-# Full Stack Open - Part 1 ("Unicafe")
+# Full Stack Open - Part 1 (Unicafe)
 This is my solution to the "Unicafe" exerice in Part 1 of Full Stack Open.
 
 ## About Full Stack Open
@@ -8,3 +8,7 @@ The course covers testing, configuration and environment management, and the use
 
 The course is worth 5-13 credits, and the content is the same as in the Full stack course held at the Department of Computer Science at the University of Helsinki in Spring 2020. There is also an associated project that is worth 1-10 credits.
 
+<!-- ## Live Site URL -->
+
+## Website Preview
+<img width="1118" alt="Preview" src="https://user-images.githubusercontent.com/65603938/159766817-fd1474e9-55fd-4baa-9044-43173e6d8614.png">
