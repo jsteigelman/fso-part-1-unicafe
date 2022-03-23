@@ -1,5 +1,5 @@
 # Full Stack Open - Part 1 (Unicafe)
-This is my solution to the "Unicafe" exerice in Part 1 of Full Stack Open.
+This is my solution to the "Unicafe" exercise in Part 1 of Full Stack Open. I am following the Full Stack Open curriculum as one of my projects while attending the Recurse Center. 
 
 ## About Full Stack Open
 Full Stack Open serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.
