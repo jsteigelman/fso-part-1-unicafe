@@ -11,4 +11,4 @@ The course is worth 5-13 credits, and the content is the same as in the Full sta
 <!-- ## Live Site URL -->
 
 ## Website Preview
-<img width="1118" alt="Preview" src="https://user-images.githubusercontent.com/65603938/159766817-fd1474e9-55fd-4baa-9044-43173e6d8614.png">
+<img width="800" alt="Preview" src="https://user-images.githubusercontent.com/65603938/159766817-fd1474e9-55fd-4baa-9044-43173e6d8614.png">
