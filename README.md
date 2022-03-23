@@ -12,4 +12,4 @@ The course is worth 5-13 credits, and the content is the same as in the Full sta
 https://steigelman-fso-part1-unicafe.netlify.app/
 
 ## Website Preview
-<img width="800" alt="Preview" src="https://user-images.githubusercontent.com/65603938/159766817-fd1474e9-55fd-4baa-9044-43173e6d8614.png">
+<img width="800" alt="Preview" src="https://user-images.githubusercontent.com/65603938/159769397-90ca05a7-b9ea-44f7-aec0-c63f32be4c6d.png">
